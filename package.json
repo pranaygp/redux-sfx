@@ -1,0 +1,32 @@
+{
+  "name": "redux-sfx",
+  "version": "0.0.9",
+  "description": "A toolbelt of common redux side-effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranaygp/redux-sfx.git"
+  },
+  "keywords": [
+    "redux",
+    "side",
+    "effects",
+    "elm",
+    "functional",
+    "programming",
+    "frp",
+    "rest",
+    "websockets",
+    "react",
+    "gaeron"
+  ],
+  "author": "Pranay Prakash <pranay.gp@gmail.com> (http://pranayprakash.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranaygp/redux-sfx/issues"
+  },
+  "homepage": "https://github.com/pranaygp/redux-sfx#readme"
+}
